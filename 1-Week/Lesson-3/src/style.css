@@ -1,9 +1,10 @@
 
 
 
-#mailto:hover {
+a:hover {
     color: hotpink;
+
 }
-#mailto:visited {
+a:visited {
     color: red;
 }
