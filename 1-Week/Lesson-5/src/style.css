@@ -27,6 +27,6 @@
   border: 1px solid;
   border-radius: 5px;
   padding: 10px;
-background-color: aqua;
-width: 33%;
+  width: 33%;
+  flex: 1;
 }
