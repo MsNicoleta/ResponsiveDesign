@@ -5,6 +5,13 @@ a:hover {
     color: hotpink;
 
 }
-a:visited {
+email-link:visited {
     color: red;
+}
+
+h2{
+    margin-top: 800px;
+}
+p {
+    margin-top: 600px;
 }
