@@ -1,0 +1,32 @@
+/* CSS variables */
+
+
+.challenge-1{
+  display: flex;
+}
+
+.challenge-2{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  
+}
+.challenge-3{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.challenge-4{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.cont-bord{
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 10px;
+background-color: aqua;
+width: 33%;
+}
