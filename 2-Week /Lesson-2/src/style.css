@@ -1,0 +1,36 @@
+
+.underline {
+    text-decoration: none !important;
+    color: black;
+}
+.underline:hover{
+    text-decoration: none!important;
+    color: black;
+}
+
+
+.get-started {
+    background-color: rgb(255, 213, 0);
+    width: 100%;
+    display: block;
+    box-shadow: 10px 10px 8px #888888;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    color: black;
+
+}
+
+
+.bg-shadow-xl{
+    color: rgb(255, 213, 0) ;
+    padding: 20px;
+    background-color: #2a8d5c;
+    box-shadow: 10px 10px 15px #888888;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    background:linear-gradient(#2a8d5cc1,#2a8d5c,#2a8d5cc1 );
+
+
+
+}    
