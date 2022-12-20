@@ -1,0 +1,11 @@
+@media(max-width: 576px){
+h4{
+    text-align: center;
+    color: blue;
+    padding: 10px;
+}
+.image{
+    visibility: hidden;
+}
+
+}
